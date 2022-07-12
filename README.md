@@ -1,4 +1,4 @@
-# Interactive Tic-Tac-Toe Game
+# Interactive Tic-Tac-Toe Game using Flutter
 
 - Interactive Human vs Human and Human vs AI game modes to play.
 - Kept track of scores of all the players and ranked them on a leaderboard.
